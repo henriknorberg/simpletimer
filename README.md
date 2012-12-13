@@ -1,3 +1,9 @@
 ![Screendump](https://raw.github.com/henriknorberg/simpletimer/master/screendump.png)
 
-HTML prototype of a simple meditation timer for Firefox OS
+Simple meditation timer for Firefox OS
+
+Road Map:
+1. ~~Create HTML mockup~~ [done]
+2. Build and use components.js components for functionality
+3. Test and add to marketplace
+4. Add server integration and social features
