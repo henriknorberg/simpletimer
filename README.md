@@ -1,6 +1,6 @@
-```
+
 ![Screendump](https://raw.github.com/henriknorberg/simpletimer/master/screendump.png)
-```
+
 Simple meditation timer for Firefox OS
 
 Road Map:
